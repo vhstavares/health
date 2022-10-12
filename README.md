@@ -1,7 +1,7 @@
 # Carford
 ## Activate Virtualenv 
 virtualenv venv <br>
-venv/Scripts/Activate
+venv\Scripts\Activate
 ## Clone Project
 git clone https://github.com/vhstavares/health.git
 ## Requirements
