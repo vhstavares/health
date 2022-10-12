@@ -10,6 +10,7 @@ cd health\carford <br>
 pip install -r requirements.txt
 ## Run Project
 py manage.py makemigrations <br>
+py manage.py makemigrations app<br>
 py manage.py migrate <br>
 py manage.py runserver <br>
 ## Docker 
