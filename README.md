@@ -2,8 +2,8 @@
 ## Activate Virtualenv 
 virtualenv venv <br>
 venv/Scripts/Activate
-## Pull Project
-
+## Clone Project
+git clone https://github.com/vhstavares/health.git
 ## Requirements
 pip install -r requirements.txt
 ## Run Project
