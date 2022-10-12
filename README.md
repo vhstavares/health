@@ -13,3 +13,6 @@ py manage.py migrate <br>
 py manage.py runserver <br>
 ## Docker 
 docker compose up 
+## Project
+![image](https://user-images.githubusercontent.com/41763619/195465080-af2d300e-64ee-44a1-aa14-d5879f00d141.png)
+
