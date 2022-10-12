@@ -13,6 +13,8 @@ py manage.py makemigrations <br>
 py manage.py makemigrations app<br>
 py manage.py migrate <br>
 py manage.py runserver <br>
+## Test
+py manage.py test
 ## Docker 
 docker compose up 
 ## Project
